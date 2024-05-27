@@ -1,0 +1,66 @@
+.e2{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "open sans",
+}
+.body{
+    background: linear-gradient(relative);
+}
+
+
+.e3{
+    margin-bottom: 50vw;
+    margin-top: 23vw;
+    margin: 12vw;
+    top: 0.625vw;
+    left: 2.7vh;
+    width: 300vw;
+    height: 2.3vh;
+    position: absolute;
+    z-index: 1;
+}
+.tarjeta2{
+    margin-bottom: 50vw;
+    margin-top: 23vw;
+    margin: 12vw;
+    top: 0.625vw;
+    left: 2.7vh;
+    width: 300vw;
+    height: 2.3vh;
+    position: absolute;
+    z-index:1;
+}
+.tarjeta3{
+    margin-top: 23vw;
+    margin: 12vw;
+    margin-bottom: 50vw;
+    top: 0.625vw;
+    left: 2.7vh;
+    width: 30vw;
+    height: 2.3vh;
+    position: absolute;
+    z-index: 1;
+}
+.tarjeta4{
+    margin: 12vw;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    top: 0.625vw;
+    left: 2.7vh;
+    width: 300vw;
+    height: 2.3vh;
+    position: absolute;
+    z-index: 1;
+}
+.mesadetrabajo{
+    margin: 12vw;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    top: 0.625vw;
+    left: 2.7vh;
+    width: 300vw;
+    height: 1.2vh;
+    position: absolute;
+    z-index: 1;
+}
